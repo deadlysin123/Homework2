@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import com.jfoenix.controls.JFXButton?>
-<?import javafx.geometry.Insets?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.control.ListView?>
-<?import javafx.scene.layout.HBox?>
-<?import javafx.scene.layout.VBox?>
-<?import javafx.scene.text.Font?>
+<?import com.jfoenix.controls.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
 
-<HBox alignment="center" prefHeight="224.0" prefWidth="846.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
-       <ListView fx:id="studentListView" prefHeight="255.0" prefWidth="334.0" />
+<HBox alignment="center" prefHeight="218.0" prefWidth="902.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+       <ListView fx:id="studentListView" prefHeight="218.0" prefWidth="383.0" />
       <VBox prefHeight="221.0" prefWidth="225.0">
       <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="21.0" prefWidth="186.0" style="-fx-background-color: silver;" text="Interact with HelioHost DB" textAlignment="CENTER">
          <font>
@@ -39,5 +37,5 @@
          </children>
       </VBox>
       </VBox>
-   <ListView fx:id="filterListview" prefHeight="224.0" prefWidth="302.0" />
+   <ListView fx:id="filterListview" prefHeight="218.0" prefWidth="410.0" />
 </HBox>
