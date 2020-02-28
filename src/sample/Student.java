@@ -11,7 +11,8 @@ public class Student {
 
     @Override
     public String toString(){
-        return (this.id + " " +this.studentName + " " + this.major + " " + this.gpa + " " + this.age);
+        return ("ID: " +this.id + " | NAME: " +this.studentName + " | MAJOR: " + this.major + " | GPA: " + this.gpa + " | AGE: " + this.age);
+
     }
 
 
