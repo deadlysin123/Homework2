@@ -141,7 +141,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="Homework3" />
+      <module name="Homework2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -249,10 +249,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582511879080" />
-    <state x="850" y="294" key="CommitChangelistDialog2" timestamp="1583006789763">
+    <state x="850" y="294" key="CommitChangelistDialog2" timestamp="1583018741792">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="850" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583006789763" />
+    <state x="850" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583018741792" />
     <state x="986" y="441" key="FileChooserDialogImpl" timestamp="1583018726088">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
