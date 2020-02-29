@@ -30,7 +30,7 @@ public class Controller  implements Initializable
     @FXML
     private JFXButton deleteSTable;
     @FXML
-    ListView studentListView;
+    private ListView studentListView;
 
 
 
